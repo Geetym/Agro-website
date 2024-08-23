@@ -4,7 +4,7 @@ import { IoCartOutline } from "react-icons/io5";
 
 const Navbar = () => {
   return (
-    <nav className='w-full flex justify-between py-3 px-10 bg-[#86160b]'>
+    <nav className='w-full flex justify-between py-3 px-10 bg-[#86160b] text-white'>
         <div>
             <h1 className='text-xl font-bold px-10'>Food Future Group <br />
             <p className='text-xs font-extralight'>creating our food Future today</p>
